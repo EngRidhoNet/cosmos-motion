@@ -1,0 +1,42 @@
+{
+  "sources": [
+    {
+      "id": "parkin-2024",
+      "category": "SUMBER ILMIAH",
+      "title": "Simon Parkin (2024)",
+      "citation": "The Forbidden Garden of Leningrad (Scribner / Macmillan, 2024)",
+      "license": "Book Citation"
+    },
+    {
+      "id": "pringle-2008",
+      "category": "SUMBER ILMIAH",
+      "title": "Peter Pringle (2008)",
+      "citation": "The Murder of Nikolai Vavilov (Simon & Schuster, 2008)",
+      "license": "Book Citation"
+    },
+    {
+      "id": "nasa-blue-marble",
+      "category": "CITRA BUMI",
+      "title": "NASA Visible Earth",
+      "citation": "Blue Marble Next Generation",
+      "url": "https://visibleearth.nasa.gov/",
+      "license": "Public Domain"
+    },
+    {
+      "id": "natural-earth",
+      "category": "DATA PETA",
+      "title": "Natural Earth 110m",
+      "citation": "naturalearthdata.com Vector Data",
+      "url": "https://www.naturalearthdata.com/",
+      "license": "Public Domain"
+    },
+    {
+      "id": "osm-contributors",
+      "category": "DATA PETA",
+      "title": "OpenStreetMap",
+      "citation": "© OpenStreetMap contributors & Esri World Imagery",
+      "url": "https://www.openstreetmap.org/copyright",
+      "license": "ODbL"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+[
+  { "id": "vavilov", "name": "Nikolai I. Vavilov", "preset": "nikolai_vavilov" },
+  { "id": "ivanov", "name": "Dmitri S. Ivanov", "preset": "dmitri_ivanov" },
+  { "id": "lysenko", "name": "Trofim D. Lysenko", "preset": "trofim_lysenko" }
+]

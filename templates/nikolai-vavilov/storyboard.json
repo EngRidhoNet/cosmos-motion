@@ -1,0 +1,9 @@
+{
+  "acts": [
+    { "id": "VS01", "title": "Freezing Leningrad Vault", "template": "ArchivalDossier", "durationSec": 3.2, "sourceIds": ["parkin-2024"] },
+    { "id": "VS06", "title": "Dream to End Famine", "template": "RealEarth3D", "durationSec": 3.5, "sourceIds": ["nasa-blue-marble"] },
+    { "id": "VS07", "title": "64 Countries Expedition Map", "template": "NaturalEarthMap", "durationSec": 3.5, "sourceIds": ["natural-earth"] },
+    { "id": "VS13", "title": "Science vs Lysenkoism", "template": "SplitConfrontation", "durationSec": 4.7, "sourceIds": ["pringle-2008"] },
+    { "id": "VS16", "title": "Eastern Front 1941 Map", "template": "SlippyTileMap", "durationSec": 6.0, "sourceIds": ["osm-contributors"] }
+  ]
+}

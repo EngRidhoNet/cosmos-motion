@@ -1,0 +1,19 @@
+{
+  "sources": [
+    {
+      "id": "ri-london",
+      "category": "ARSIP SEJARAH",
+      "title": "Royal Institution of Great Britain",
+      "citation": "Albemarle Street, London Archives (1821–1831)",
+      "url": "https://www.rigb.org/",
+      "license": "Historical Archive"
+    },
+    {
+      "id": "faraday-diary",
+      "category": "SUMBER ILMIAH",
+      "title": "Faraday's Diary",
+      "citation": "Experimental Researches in Electricity (1831)",
+      "license": "Public Domain"
+    }
+  ]
+}

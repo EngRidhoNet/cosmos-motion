@@ -1,0 +1,13 @@
+node_modules/
+dist/
+out/
+.remotion/
+*.mp4
+*.mov
+*.wav
+*.mp3
+!templates/**/*.json
+__pycache__/
+*.pyc
+.DS_Store
+.env

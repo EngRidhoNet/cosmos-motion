@@ -1,0 +1,6 @@
+{
+  "acts": [
+    { "id": "MF01", "title": "Royal Institution 1821", "template": "ArchivalDossier", "durationSec": 4.0, "sourceIds": ["ri-london"] },
+    { "id": "MF02", "title": "Electromagnetic Induction 1831", "template": "DataTimelineShot", "durationSec": 4.5, "sourceIds": ["faraday-diary"] }
+  ]
+}
