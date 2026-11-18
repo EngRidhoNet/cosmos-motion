@@ -8,6 +8,7 @@
 
 **Open-Source Science Documentary Video Engine inspired by *Cosmos: A Spacetime Odyssey***
 
+[![npm version](https://img.shields.io/npm/v/cosmos-motion.svg?style=for-the-badge&color=FFD60A)](https://www.npmjs.com/package/cosmos-motion)
 [![License: MIT](https://img.shields.io/badge/License-MIT-FFD60A.svg?style=for-the-badge)](./LICENSE)
 [![Remotion](https://img.shields.io/badge/Remotion-4.x-0B84F3.svg?style=for-the-badge)](https://www.remotion.dev/)
 [![Three.js](https://img.shields.io/badge/Three.js-WebGL-000000.svg?style=for-the-badge)](https://threejs.org/)
@@ -17,7 +18,7 @@
 
 *Code-first vertical (`1080×1920`) documentary framework combining **3D NASA Blue Marble Earth**, **real cartography**, **consistent 2D graphic-novel historical characters**, **Treemation-style karaoke subtitles**, and **verifiable per-scene source attributions**.*
 
-[Quick Start](#-quick-start) • [Visual Showcase](#-visual-showcase) • [Architecture](#-architecture) • [CLI Reference](#-python-cli-reference) • [AI Agent Skill](#-ai-agent-skill-integration) • [License](#-license--third-party-attributions)
+[Quick Start](#-quick-start) • [npm Package](https://www.npmjs.com/package/cosmos-motion) • [Visual Showcase](#-visual-showcase) • [Architecture](#-architecture) • [CLI Reference](#-python-cli-reference) • [AI Agent Skill](#-ai-agent-skill-integration) • [License](#-license--third-party-attributions)
 
 </div>
 
