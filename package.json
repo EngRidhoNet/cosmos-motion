@@ -1,14 +1,38 @@
 {
   "name": "cosmos-motion",
   "version": "0.1.0",
-  "description": "Open-Source Science Documentary Video Engine (Remotion + Three.js + D3-Geo + OpenStreetMap + Python CLI) inspired by Cosmos: A Spacetime Odyssey.",
-  "main": "src/index.ts",
+  "description": "Open-Source Science Documentary Video Engine (Remotion + Three.js + D3-Geo + OpenStreetMap + CLI) inspired by Cosmos: A Spacetime Odyssey.",
+  "main": "dist/packages/index.js",
+  "types": "dist/packages/index.d.ts",
+  "bin": {
+    "cosmos-motion": "./bin/cosmos-motion.js"
+  },
+  "files": [
+    "bin/",
+    "cli/",
+    "dist/packages/",
+    "packages/",
+    "templates/",
+    "skills/",
+    "README.md",
+    "LICENSE"
+  ],
   "scripts": {
     "dev": "remotion studio src/index.ts",
     "typecheck": "tsc --noEmit",
+    "build:lib": "tsc -p tsconfig.json",
     "build": "remotion bundle src/index.ts",
+    "prepublishOnly": "npm run build:lib",
     "render:demo": "remotion render src/index.ts DemoDocumentary out/demo.mp4 --codec=h264 --crf=18 --gl=angle",
     "render:charsheet": "remotion still src/index.ts CharacterReferenceSheet out/character-sheet.png --gl=angle"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EngRidhoNet/cosmos-motion.git"
+  },
+  "homepage": "https://github.com/EngRidhoNet/cosmos-motion#readme",
+  "bugs": {
+    "url": "https://github.com/EngRidhoNet/cosmos-motion/issues"
   },
   "keywords": [
     "cosmos",

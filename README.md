@@ -80,7 +80,17 @@ cosmos-motion/
 
 ## 🚀 Quick Start
 
-### 1. Install Dependencies
+### 1. Install via npm / npx (or Clone Repository)
+```bash
+# Run directly with npx
+npx cosmos-motion init my-science-story --title "Marie Curie & Radium"
+npx cosmos-motion verify my-science-story
+
+# Or install as a library in your Remotion project
+npm install cosmos-motion
+```
+
+Or clone the full repository with demo templates:
 ```bash
 git clone https://github.com/EngRidhoNet/cosmos-motion.git
 cd cosmos-motion
