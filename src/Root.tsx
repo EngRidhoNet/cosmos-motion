@@ -2,6 +2,7 @@ import React from "react";
 import { Composition, Still } from "remotion";
 import { CharacterReferenceSheet } from "@cosmos-motion/characters";
 import { DemoDocumentary, DEMO_TOTAL_FRAMES } from "./DemoDocumentary";
+import { ReadmeCover } from "./ReadmeCover";
 
 export const RemotionRoot: React.FC = () => {
   return (
@@ -19,6 +20,12 @@ export const RemotionRoot: React.FC = () => {
         component={CharacterReferenceSheet}
         width={1080}
         height={1920}
+      />
+      <Still
+        id="ReadmeCover"
+        component={ReadmeCover}
+        width={1280}
+        height={640}
       />
     </>
   );
